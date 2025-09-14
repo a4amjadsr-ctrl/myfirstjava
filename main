@@ -9,7 +9,7 @@
     <h1>
         <% 
             // Java code block
-            out.println("Hello World"); 
+            out.println("Hello World amjad"); 
         %>
     </h1>
 </body>
